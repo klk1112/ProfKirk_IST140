@@ -16,6 +16,7 @@ public class Main {
             sum += x;
             System.out.println("x: " + x);
             System.out.println("sum: " + sum);
+            System.out.println("");
         }
     
         System.out.println("final sum is: " + sum);
