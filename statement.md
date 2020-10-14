@@ -1,4 +1,4 @@
-# Practice with Loops #1
+# Practice With Loops Quiz #1
 
 This Java template lets you get started quickly with a simple one-page playground.
 
