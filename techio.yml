@@ -1,8 +1,8 @@
-title: Practice With Loops Quiz #1
+title: Practice With Loops Quiz
 plan:
-- title: Java Snippet
+- title: Question #1
+  description: This is an example of an infinite loop.
   statement: statement.md
-title: Practice With Loops Quiz #2
-plan:
-- title: Java Snippet
+- title: Question #2
+  description: This is an example of ...
   statement: statement2.md
