@@ -10,6 +10,8 @@ public class Main {
 
         //Practice With Loops Quiz #1
 
+        System.out.println("Infinite Loop");
+
         int x = 0;
         while (x < 35) {   
             System.out.println(x);   
