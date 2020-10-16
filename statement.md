@@ -12,7 +12,7 @@ public class Main {
 
         int x = 0;
         while (x < 35) {   
-            System.out.println("Run count = " + x);   
+            System.out.println(x);   
             x--;
         }
     }
